@@ -9,7 +9,7 @@ const projects = [
     title: "One-Stop",
     description:
       "A feature-rich e-commerce platform with seamless route management, product filtering, authentication, and checkout functionality.",
-    image: "/image/Screenshot (518).png",
+    image: "/image/Screenshot (519).png",
     tags: ["React", "CSS", "React-Router-Dom", "React-Hooks"],
     github: "https://github.com/SerenaSinha31/One-Stop",
     demo: "#",
@@ -18,7 +18,7 @@ const projects = [
     title: "Online Food Delivery Website",
     description:
       "A MERN stack food ordering website with dynamic data from MongoDB, responsive design, user authentication, and individual user data storage.",
-    image: "/image/Screenshot (519).png",
+    image: "/image/Screenshot (518).png",
     tags: ["MongoDB", "Express", "React", "Node.js", "Responsive Design"],
     github: "https://github.com/SerenaSinha31/BackenedProject_OnlineFoodDelivery",
     demo: "#",
